@@ -1,6 +1,6 @@
 # ⭐ Toon Tactics - Tower Defense (Godot Engine)
 
-**Toon Tactics** est un jeu de Tower Defense complet développé en **GDScript** sous **Godot Engine 4**. Ce projet met en avant des mécaniques de jeu avancées : algorithmes de ciblage, gestion des coordonnées spatiales (placement de grille et de chemin), et un système de monétisation in-game complet (Gacha).
+**Toon Tactics** est un jeu de Tower Defense complet développé par Alan en **GDScript** sous **Godot Engine 4**. Ce projet met en avant des mécaniques de jeu avancées : algorithmes de ciblage, gestion des coordonnées spatiales (placement de grille et de chemin), et un système de monétisation in-game complet (Gacha).
 
 ## ✨ Fonctionnalités Principales
 * **Placement de Tours Dynamique :** Vérification mathématique en temps réel pour empêcher le joueur de construire sur le chemin des ennemis ou trop près d'une autre tour.
